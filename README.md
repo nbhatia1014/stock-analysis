@@ -1,2 +1,18 @@
-# stock-analysis
-Assisting Steve by creating Macros that quickly analyze stock data from various years.
+# Analyzing Two Years of Stock Returns:
+
+## Overview of Project:
+
+### Purpose:
+
+## Results:
+
+### 2017 Overview:
+
+### 2018 Overview:
+
+## Summary:
+
+### Advantages and Disadvantages of Refactored Code:
+
+### Comparison between the Original and Refactored Code:
+
