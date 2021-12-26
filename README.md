@@ -7,8 +7,10 @@
 ## Results:
 
 ### 2017 Overview:
+![This is an image]
 
 ### 2018 Overview:
+![This is an image]
 
 ## Summary:
 
