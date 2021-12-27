@@ -9,6 +9,7 @@ The purpose of this project was to utilize the tools of the Developer tab within
 
 ### 2017 Overview:
 ![This is an image](https://github.com/nbhatia1014/stock-analysis/blob/main/Resources/2017.png)
+Shown above is a summary of the results of the Macro run on the stocks in 2017. As shown above, the stocks had a very successful year in 2017. 
 
 ![This is an image](https://github.com/nbhatia1014/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png)
 
